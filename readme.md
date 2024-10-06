@@ -2,7 +2,7 @@ NEURON mod files for the Ih current from the paper:
 R. Bal and D. Oertel
 Hyperpolarization-activated, mixed-cation current (Ih)
 in octopus cells of the mammalian Cochlear Nucleus,
-J. Neurophysiol. 84, 806-817 (2000)
+*J. Neurophysiol.* 84, 806-817 (2000)
 
 - The current has been modeled as two independent HH-like gates 
 with the same activation curve but different time constants (fast and slow).
@@ -39,3 +39,7 @@ will open the simulation window.
 \
 Questions on how to use this model should be directed to
 michele.migliore@pa.ibf.cnr.it
+
+Changelog:
+----------
+2024-10: converted readme to markdown
